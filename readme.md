@@ -32,7 +32,9 @@
 6. ENOVIA PLM 개발 및 운영
 - 역할 및 수행내용 : 기존 시스템 Migration 및 신규 솔루션 프로세스 개발
 - 주요 사용 기술 : JAVA Spring, ENOVIA, OZ Report, Oracle, Linux
-7. 회계 프로그램 개발 [OPIC-A](https://youtu.be/e_dNJhh6D4Y){:target="_blank"}
+7. 회계 프로그램 개발 
+[건망증이 심한 엔지니어](https://techstock.biz){:target="_blank"}
+[OPIC-A](https://youtu.be/e_dNJhh6D4Y){:target="_blank"}
 - 역할 및 수행내용 : 비영리재단, 공익회계법인을 위한 지원 회계프로그램 개발
 - 주요 사용 기술 : C#, Winform, Devexpress, MariaDB, AWS Lightsail
 	
