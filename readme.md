@@ -25,14 +25,14 @@
 - 주요 사용 기술 : ASP.Net, MS-SQL, ElasticSearch
 4. Markup 프로그램 개발 (https://youtu.be/1DBjSQjVxC0)
 - 역할 및 수행내용 : Server API, Client WPF 개발 및 PLM 솔루션과 연계.
-- 주요 사용 기술 : C#, WPF, Telerik
+- 주요 사용 기술 : C#, WPF, Telerik, MS-SQL
 5. 건설사 PLM 운영 및 개발
 - 역할 및 수행내용 : 건설사 프로젝트 관리 포탈 운영 및 개발 (SM)
-- 주요 사용 기술 : ASP.Net, Sharepoint
+- 주요 사용 기술 : ASP.Net, Sharepoint, MS-SQL
 6. ENOVIA PLM 개발 및 운영
 - 역할 및 수행내용 : 기존 시스템 Migration 및 신규 솔루션 프로세스 개발
-- 주요 사용 기술 : JAVA Spring, ENOVIA, OZ Report
+- 주요 사용 기술 : JAVA Spring, ENOVIA, OZ Report, Oracle, Linux
 7. 회계 프로그램 개발 (https://youtu.be/e_dNJhh6D4Y)
-- 역할 및 수행내용 : 비영리재단, 공익회계법인을 위한 복식 지원 회계프로그램 개발
-- 주요 사용 기술 : C#, Winform, Devexpress
+- 역할 및 수행내용 : 비영리재단, 공익회계법인을 위한 지원 회계프로그램 개발
+- 주요 사용 기술 : C#, Winform, Devexpress, MariaDB, AWS Lightsail
 	
