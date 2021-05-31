@@ -1,4 +1,4 @@
-# .Net, Java, PHP Web, CS Multi Player
+# Web, CS Multi Player
 주력 언어는 C# 으로 ASP.NET, MVC, Winform, WPF 를 사용하여 솔루션 및 제품을 개발.
 
 ## Table of Contents
