@@ -35,5 +35,3 @@
 7. 회계 프로그램 개발 [OPIC-A](https://youtu.be/e_dNJhh6D4Y)
 - 역할 및 수행내용 : 비영리재단, 공익회계법인을 위한 지원 회계프로그램 개발
 - 주요 사용 기술 : C#, Winform, Devexpress, MariaDB, AWS Lightsail
-	
-[Link](https://example.org/ "title" target="_blank")
