@@ -20,10 +20,10 @@
 2. 악성코드분석 솔루션 관리자 웹 구축
 - 역할 및 수행내용 : 관리자 Web Custom
 - 주요 사용 기술 : PHP, Mysql, Linux
-3. 악성코드분석 서비스 사이트, 검색엔진 구축 (https://www.malwares.com)
+3. 악성코드분석 서비스 사이트, 검색엔진 구축 (https://www.malwares.com){:target="_blank"}
 - 역할 및 수행내용 : Front-End 개발, 악성코드 검색을 위한 Elastic Search 구축
 - 주요 사용 기술 : ASP.Net, MS-SQL, ElasticSearch
-4. Markup 프로그램 개발 (https://youtu.be/1DBjSQjVxC0)
+4. Markup 프로그램 개발 (https://youtu.be/1DBjSQjVxC0){:target="_blank"}
 - 역할 및 수행내용 : Server API, Client WPF 개발 및 PLM 솔루션과 연계.
 - 주요 사용 기술 : C#, WPF, Telerik, MS-SQL
 5. 건설사 PLM 운영 및 개발
@@ -32,7 +32,7 @@
 6. ENOVIA PLM 개발 및 운영
 - 역할 및 수행내용 : 기존 시스템 Migration 및 신규 솔루션 프로세스 개발
 - 주요 사용 기술 : JAVA Spring, ENOVIA, OZ Report, Oracle, Linux
-7. 회계 프로그램 개발 (https://youtu.be/e_dNJhh6D4Y)
+7. 회계 프로그램 개발 (https://youtu.be/e_dNJhh6D4Y){:target="_blank"}
 - 역할 및 수행내용 : 비영리재단, 공익회계법인을 위한 지원 회계프로그램 개발
 - 주요 사용 기술 : C#, Winform, Devexpress, MariaDB, AWS Lightsail
 	
